@@ -1,4 +1,8 @@
 import random
+
+def make_random(low, high):
+    raise NotImplementedError
+
 def main():
     print("Welcome to the Number Guessing Game!")
 
